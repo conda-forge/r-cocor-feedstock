@@ -1,11 +1,11 @@
-About r-cocor
-=============
+About r-cocor-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cocor-feedstock/blob/main/LICENSE.txt)
 
 Home: http://comparingcorrelations.org
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cocor-feedstock/blob/main/LICENSE.txt)
 
 Summary: Statistical tests for the comparison between two correlations based on either independent or dependent groups. Dependent correlations can either be overlapping or nonoverlapping. A web interface is available on the website http://comparingcorrelations.org. A plugin for the R GUI and IDE RKWard is included. Please install RKWard from https://rkward.kde.org to use this feature. The respective R package 'rkward' cannot be installed directly from a repository, as it is a part of RKWard.
 
